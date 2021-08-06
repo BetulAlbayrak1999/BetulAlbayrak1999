@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betulalbayrak1999" alt="betulalbayrak1999" /></a> </p>
 
-- 🔭 I’m interested about **Database like Oracle**
+- 🔭 I’m interested about **Database (Oracle)**
 
-- 🌱 I’m currently learning **Frontend as javascript and React**
+- 🌱 I’m currently learning **Backend as C# with Asp.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulAlbayrak1999](https://github.com/BetulAlbayrak1999)
 
