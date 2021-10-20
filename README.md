@@ -5,7 +5,7 @@
 
 - 🔭 I’m interested about **Database (Oracle)**
 
-- 🌱 I’m currently learning **Backend as C# with Asp.net**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulAlbayrak1999](https://github.com/BetulAlbayrak1999)
 
