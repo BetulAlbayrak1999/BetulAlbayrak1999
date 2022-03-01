@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Betul AlLBAYRAK</h1>
-<h3 align="center">I'm a student at Istanbul Medeniyet University and kodluyoruz Company. Aslo I'm interested at backend like Oracle Database and frontend as Html, Css, Javascript and React.</h3>
+<h3 align="center">I'm a student at Istanbul Medeniyet University and Kodluyoruz Education Company. Aslo I'm interested at backend technologies like .Net Core technology and Database like Oracle, Mssql and Mysql</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betulalbayrak1999" alt="betulalbayrak1999" /></a> </p>
 
-- 🔭 I’m interested about **Database (Oracle)**
+- 🔭 I’m interested about **Backend technologies like .Net Core technology and Database like Oracle, Mssql and Mysql **
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **GraduateProject using Asp.Net Core Web Api**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulAlbayrak1999](https://github.com/BetulAlbayrak1999)
 
