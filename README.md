@@ -5,7 +5,7 @@
 
 - 🔭 I’m interested in **Backend Technologies as .NET Technology and Database as Oracle, Mssql and Mysql **
 
-- 🌱 I’m currently working on **my GraduateProject using Asp.Net Core Web Api**
+- 🌱 I’m currently working on **my own projects using .NetCore**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulAlbayrak1999](https://github.com/BetulAlbayrak1999)
 
