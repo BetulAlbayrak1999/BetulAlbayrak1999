@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betul AlLBAYRAK</h1>
-<h3 align="center">I'm a student at Istanbul Medeniyet University and Kodluyoruz Education Company. Aslo, I'm interested in Backend Technologies as .NET Technology and Database as Oracle, Mssql and Mysql</h3>
+<h3 align="center"> I'm interested in Backend Technologies as .NET Technology and Database as Oracle, Mssql and Mysql</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betulalbayrak1999" alt="betulalbayrak1999" /></a></p>
 
