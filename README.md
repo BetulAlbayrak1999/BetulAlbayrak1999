@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betul AlLBAYRAK</h1>
 <h3 align="center"> I'm a Data Engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betulalbayrak1999" alt="betulalbayrak1999" /></a></p>
 
 - 🔭 I’m interested in Databases such as Oracle, Mssql, and Mysql **
 
@@ -10,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/BetulAlbayrak1999](https://github.com/BetulAlbayrak1999)
 
 - 📝 I'm aktive on Hackerrank: [https://www.hackerrank.com/betol_99tur](https://www.hackerrank.com/betol_99tur)
-
-- 📫 You can reach me: **https://www.linkedin.com/in/bet%C3%BCl-albayrak-61725a185/**
 
 - 📫 You can reach me: **Betulalbayrak1999@gmail.com**
 
