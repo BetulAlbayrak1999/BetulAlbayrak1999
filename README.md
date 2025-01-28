@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Betul AlLBAYRAK</h1>
-<h3 align="center"> I'm a Data Engineer</h3>
+<h3 align="center"> I'm a Data Scientist</h3>
 
 
-- 🔭 I’m interested in Databases such as Oracle, Mssql, and Mysql **
+- 🔭 I’m interested in ML**
 
 - 🌱 I’m currently working on **my own projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulAlbayrak1999](https://github.com/BetulAlbayrak1999)
 
-- 📝 I'm aktive on Hackerrank: [https://www.hackerrank.com/betol_99tur](https://www.hackerrank.com/betol_99tur)
-
-- 📫 You can reach me: **Betulalbayrak1999@gmail.com**
+- 📫 You can reach me: **betulalbayrak1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
