@@ -26,6 +26,7 @@
 
 ### 🔹 DevOps & Containerization  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
 
 ### 🔹 Programming Languages  
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">  
