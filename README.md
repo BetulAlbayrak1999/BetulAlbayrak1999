@@ -2,11 +2,11 @@
 <h3 align="center"> I'm an AI Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: Building AI-powered applications, focusing on machine learning, natural language processing, and data-driven decision-making. <br><br>👯 I’m looking to collaborate on: AI and data science projects involving deep learning, LLMs, and automation to create intelligent systems. <br><br>🌱 I’m currently learning: Advanced machine learning techniques, and deployment strategies to enhance AI scalability and efficiency. <br><br>💬 Ask me about: AI model development, data preprocessing, and how I integrate AI into real-world applications. 🚀
+🔭 I’m currently working on: Building AI-powered applications, focusing on ML, NLP, and RAG, and I’m looking to collaborate on: AI and data science projects involving deep learning, LLMs, and RAG to create intelligent systems.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bet%c3%bcl-albayrak-61725a185/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/betulalbayrak) 
 
 
 ## 🚀 Tech Stack  
